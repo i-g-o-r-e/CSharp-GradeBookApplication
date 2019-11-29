@@ -43,7 +43,6 @@
             {
                 base.CalculateStudentStatistics(name);
             }
-            
         }
     }
 }
